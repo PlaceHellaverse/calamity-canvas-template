@@ -20,20 +20,20 @@
             "y": 875
         },
         {
-            "name": "beelzebub_sigil",
-            "sources": [
-                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/1BF382D8-ECFD-4F0C-9106-F1DA06AF9940.png?raw=true"
-            ],
-            "x": 920,
-            "y": 860
-        },
-        {
             "name": "beelzebub",
             "sources": [
                 "https://cdn.discordapp.com/attachments/1140933304862908446/1141423999327420517/Belzebub_last.png"
             ],
             "x": 855,
             "y": 867
+        },
+        {
+            "name": "beelzebub_sigil",
+            "sources": [
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/1BF382D8-ECFD-4F0C-9106-F1DA06AF9940.png?raw=true"
+            ],
+            "x": 920,
+            "y": 860
         },
         {
             "name": "giant_stolas",
