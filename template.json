@@ -66,6 +66,14 @@
             ],
             "x": 952,
             "y": 740
+        },
+        {
+            "name": "beelzebub full body",
+            "sources": [
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/bezlebubFullBody.png?raw=true"
+            ],
+            "x": 489,
+            "y": 535
         }
     ]
 }
