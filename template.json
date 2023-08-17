@@ -1,0 +1,63 @@
+{
+    "faction": "helluva boss",
+    "contact": "https://discord.gg/pzbPauyTJ9",
+    "templates": [
+        {
+            "name": "loona",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1140933304862908446/1141039751399485490/Loona_1_1.png"
+            ],
+            "x": 1222,
+            "y": 959
+        },
+           
+        {
+            "name": "M&M",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1132362079534317689/1141068682789933076/MM.png"
+            ],
+            "x": 1205,
+            "y": 875
+        },
+        {
+            "name": "beelzebub_sigil",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1140933304862908446/1141495517336051752/Belzebub_logo.png"
+            ],
+            "x": 920,
+            "y": 860
+        },
+        {
+            "name": "beelzebub",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1140933304862908446/1141423999327420517/Belzebub_last.png"
+            ],
+            "x": 855,
+            "y": 867
+        },
+        {
+            "name": "giant_stolas",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1135713690054824097/1141316292675113060/Stolas.png"
+            ],
+            "x": 900,
+            "y": 785
+        },
+        {
+            "name": "giant_loona",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1132362079534317689/1141142825594015874/image.png"
+            ],
+            "x": 840,
+            "y": 790
+        },
+        {
+            "name": "Imp_round_logo",
+            "sources": [
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/B7529D43-F62C-4832-A832-E3CBCC513D82.png?raw=true"
+            ],
+            "x": 1128,
+            "y": 918
+        }
+    ]
+}
