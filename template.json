@@ -5,7 +5,7 @@
         {
             "name": "loona",
             "sources": [
-                "https://cdn.discordapp.com/attachments/1140933304862908446/1141039751399485490/Loona_1_1.png"
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/loona_sticker.png?raw=true"
             ],
             "x": 1222,
             "y": 959
@@ -14,7 +14,7 @@
         {
             "name": "M&M",
             "sources": [
-                "https://cdn.discordapp.com/attachments/1132362079534317689/1141068682789933076/MM.png"
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/MM_sticker.png?raw=true"
             ],
             "x": 1205,
             "y": 875
@@ -22,7 +22,7 @@
         {
             "name": "beelzebub",
             "sources": [
-                "https://cdn.discordapp.com/attachments/1140933304862908446/1141423999327420517/Belzebub_last.png"
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/bee_fullbody.png?raw=true"
             ],
             "x": 855,
             "y": 867
@@ -30,7 +30,7 @@
         {
             "name": "beelzebub_sigil",
             "sources": [
-                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/1BF382D8-ECFD-4F0C-9106-F1DA06AF9940.png?raw=true"
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/bee_sigil.png?raw=true"
             ],
             "x": 920,
             "y": 860
@@ -38,7 +38,7 @@
         {
             "name": "giant_stolas",
             "sources": [
-                "https://cdn.discordapp.com/attachments/1135713690054824097/1141316292675113060/Stolas.png"
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/big_stolas.png?raw=true"
             ],
             "x": 900,
             "y": 785
@@ -46,7 +46,7 @@
         {
             "name": "giant_loona",
             "sources": [
-                "https://cdn.discordapp.com/attachments/1132362079534317689/1141142825594015874/image.png"
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/big_loona.png?raw=true"
             ],
             "x": 840,
             "y": 790
@@ -54,7 +54,7 @@
         {
             "name": "Imp_round_logo",
             "sources": [
-                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/B7529D43-F62C-4832-A832-E3CBCC513D82.png?raw=true"
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/imp_logo.png?raw=true"
             ],
             "x": 1128,
             "y": 918
@@ -62,7 +62,7 @@
         {
             "name": "stolas sigil",
             "sources": [
-                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/stolasSigil.png?raw=true"
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/stolasSigil.png?raw=true"
             ],
             "x": 952,
             "y": 740
@@ -70,7 +70,7 @@
         {
             "name": "beelzebub full body",
             "sources": [
-                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/bezlebubFullBody.png?raw=true"
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/bee_fullbody.png?raw=true"
             ],
             "x": 489,
             "y": 535
@@ -78,7 +78,7 @@
         {
             "name": "Baby Via",
             "sources": [
-                "https://cdn.discordapp.com/attachments/1132362079534317689/1141863790120546304/Octavia_baby_1_1t.png"
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/baby_via.png?raw=true"
             ],
             "x": 640,
             "y": 794
