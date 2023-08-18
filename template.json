@@ -20,9 +20,17 @@
             "y": 875
         },
         {
+            "name": "giant_stolas",
+            "sources": [
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/big_stolas.png?raw=true"
+            ],
+            "x": 900,
+            "y": 785
+        },
+        {
             "name": "beelzebub",
             "sources": [
-                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/bee_fullbody.png?raw=true"
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/bee_rcheeseburger.png?raw=true"
             ],
             "x": 855,
             "y": 867
@@ -34,14 +42,6 @@
             ],
             "x": 920,
             "y": 860
-        },
-        {
-            "name": "giant_stolas",
-            "sources": [
-                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/big_stolas.png?raw=true"
-            ],
-            "x": 900,
-            "y": 785
         },
         {
             "name": "giant_loona",
