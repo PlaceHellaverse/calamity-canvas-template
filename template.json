@@ -82,6 +82,14 @@
             ],
             "x": 640,
             "y": 794
+        },
+        {
+            "name": "blitzo",
+            "sources": [
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/blitzo.png?raw=true"
+            ],
+            "x": 1108,
+            "y": 708
         }
     ]
 }
