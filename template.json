@@ -90,6 +90,14 @@
             ],
             "x": 1108,
             "y": 708
+        },
+        {
+            "name": "baby stolas",
+            "sources": [
+                "https://github.com/PlaceHellaverse/calamity-canvas-template/blob/main/assets/blitzo.png?raw=true"
+            ],
+            "x": 468,
+            "y": 755
         }
     ]
 }
